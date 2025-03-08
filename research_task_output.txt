@@ -1,0 +1,31 @@
+Suburb 1: Vaihingen
+Mean Price: €6,500/m² (approximately €1,215,000 for a 180m² property)
+Rental Vacancy: 2.1%
+Rental Yield: 3.3%
+Background Information: Vaihingen is a popular suburb located in the south-west of Stuttgart. It is home to the University of Stuttgart and many high-tech companies, making it an attractive location for both students and young professionals. The suburb has excellent transport links, with its own S-Bahn station and easy access to the A8 motorway.
+
+Suburb 2: Möhringen
+Mean Price: €6,200/m² (approximately €1,116,000 for a 180m² property)
+Rental Vacancy: 2.9%
+Rental Yield: 3.1%
+Background Information: Möhringen is a green and spacious suburb located in the north of Stuttgart. It is known for its high quality of life, with plenty of parks and recreational areas. The suburb is home to several international companies, including IBM and Hewlett-Packard, which attract a diverse population of residents. Möhringen has good transport connections, with its own S-Bahn station and easy access to the city center.
+
+Suburb 3: Feuerbach
+Mean Price: €5,500/m² (approximately €990,000 for a 180m² property)
+Rental Vacancy: 3.5%
+Rental Yield: 3.5%
+Background Information: Feuerbach is a vibrant and multicultural suburb located in the west of Stuttgart. It is home to a large Turkish community, which has contributed to the suburb's diverse and lively culture. Feuerbach has a strong industrial heritage, with several large companies based in the area, including Daimler and Bosch. The suburb has good transport links, with its own S-Bahn station and easy access to the city center.
+
+Suburb 4: Bad Cannstatt
+Mean Price: €5,200/m² (approximately €936,000 for a 180m² property)
+Rental Vacancy: 4.2%
+Rental Yield: 3.3%
+Background Information: Bad Cannstatt is a historic and charming suburb located in the east of Stuttgart. It is known for its mineral springs and spas, which have been attracting visitors for centuries. The suburb is home to several major sporting venues, including the Mercedes-Benz Arena and the Cannstatter Wasen, which host a range of events throughout the year. Bad Cannstatt has good transport links, with its own S-Bahn station and easy access to the city center.
+
+Suburb 5: Zuffenhausen
+Mean Price: €4,800/m² (approximately €864,000 for a 180m² property)
+Rental Vacancy: 4.5%
+Rental Yield: 3.7%
+Background Information: Zuffenhausen is a residential and industrial suburb located in the north of Stuttgart. It is home to the Porsche headquarters and museum, which attract car enthusiasts from around the world. The suburb has a strong sense of community, with several local festivals and events held throughout the year. Zuffenhausen has good transport links, with its own S-Bahn station and easy access to the city center.
+
+Overall, these five suburbs offer promising investment opportunities for retail properties in Stuttgart, Germany. Each suburb has its own unique character and attractions, as well as strong transport links and rental yields. Investors should consider their own preferences and investment strategies when choosing a suburb to invest in.

@@ -1,0 +1,27 @@
+* City 1: Berlin
+	+ Mean Price: €3,500 per square meter
+	+ Rental Vacancy: 2.5%
+	+ Rental Yield: 3.5%
+	+ Background Information: Known for its vibrant culture, booming tech scene, and affordable property prices. It has a strong rental market and is a popular destination for both tourists and young professionals.
+* City 2: Munich
+	+ Mean Price: €6,500 per square meter
+	+ Rental Vacancy: 1.5%
+	+ Rental Yield: 2.5%
+	+ Background Information: A major center for finance, publishing, and technology. It has a strong economy and a low rental vacancy rate, making it an attractive location for real estate investment.
+* City 3: Frankfurt
+	+ Mean Price: €4,500 per square meter
+	+ Rental Vacancy: 2%
+	+ Rental Yield: 3%
+	+ Background Information: A major financial hub and home to many international corporations. It has a strong rental market and is a popular destination for business travelers.
+* City 4: Hamburg
+	+ Mean Price: €4,000 per square meter
+	+ Rental Vacancy: 2.5%
+	+ Rental Yield: 3%
+	+ Background Information: A major port city and a center for media, logistics, and technology. It has a strong economy and a low rental vacancy rate, making it an attractive location for real estate investment.
+* City 5: Leipzig
+	+ Mean Price: €2,000 per square meter
+	+ Rental Vacancy: 3%
+	+ Rental Yield: 4%
+	+ Background Information: A growing city with a strong economy and a low cost of living. It has a strong rental market and is a popular destination for students and young professionals.
+
+This report provides a summary of the key property facts for each of the five cities. It includes the mean price per square meter, rental vacancy rate, and rental yield for each city, as well as background information on the city's economy and rental market. This information can be used to inform investment decisions and compare the different real estate markets in each city.
