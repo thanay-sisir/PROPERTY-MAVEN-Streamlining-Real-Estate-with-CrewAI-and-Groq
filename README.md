@@ -1,4 +1,4 @@
-
+# STREAMLINING REAL ESTATE WITH CREWAI AND GROQ
 The retail property analysis system developed in this project demonstrates the application of autonomous AI agents to identify promising investment opportunities. By integrating real-time web search capabilities via SerperDevTool and advanced natural language processing with Groq’s Mixtral model, the system delivers comprehensive market insights and financial projections. While the system excels in synthesizing complex data, ongoing improvements aim to enhance real-time data integration and scalability.
 
 ## METHODOLOGY
