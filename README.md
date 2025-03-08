@@ -23,9 +23,28 @@ Key features analyzed include:
 Irrelevant or redundant data is filtered out to optimize agent performance and report clarity.
 
 ## PROPOSED IMPLEMENTATION
+![image](https://github.com/user-attachments/assets/d6bc3008-548d-413f-b981-7393d7ce32fb)
 
-![Image Placeholder](https://github.com/your-username/RetailPropertyAnalyzer/assets/proposed_implementation.png)
+**Instructions to Follow for Proposed Implementation:**
+
+- **Agent Collaboration**: Ensure the `property_researcher` and `property_analyst` agents work sequentially—research data must be fully collected and written to output files before analysis begins.
+- **Tool Integration**: Configure the `SerperDevTool` with a valid API key in `tools.py` to enable real-time web searches; test with sample queries to verify data retrieval accuracy.
+- **Output Formatting**: Standardize report formats in `tasks.py`—use structured text (e.g., bullet points, headers) for readability and ensure all output files are saved in the `output/` directory.
+- **Scalability**: Design the system to handle multiple markets by parameterizing the `research_task` description (e.g., replace "Khammam" with a variable for dynamic location input).
+- **Error Handling**: Implement try-catch blocks in `crew.py` to manage API timeouts or data retrieval failures, ensuring the crew process continues gracefully.
 
 ## SAMPLE OUTPUT
 
 Here’s an example of the expected output from the `internet_property_researcher_output.txt` file:
+![image](https://github.com/user-attachments/assets/f15f9162-5b3e-4b4b-a3e8-077b22108685)
+
+![image](https://github.com/user-attachments/assets/76314394-3c0c-4818-9281-08d59489b230)
+
+OUTPUT: specifically represents key features mentioned above with repect to specified location or region Real Estate evluation
+Given location- Khammam city, Telangana state, India country
+
+
+
+
+
+
