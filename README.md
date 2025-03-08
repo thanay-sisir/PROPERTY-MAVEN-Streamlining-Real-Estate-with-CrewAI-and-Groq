@@ -42,6 +42,19 @@ Here’s an example of the expected output from the `internet_property_researche
 
 OUTPUT: specifically represents key features mentioned above with repect to specified location or region Real Estate evluation
 Given location- Khammam city, Telangana state, India country
+These summarized reports are saved in same directory automatically.
+
+![image](https://github.com/user-attachments/assets/5fef2723-3e67-4615-803f-3d84e1e9142a)
+
+![image](https://github.com/user-attachments/assets/6c653dbe-375b-4f9d-81b7-d177aa55d445)
+
+![image](https://github.com/user-attachments/assets/eeed8e42-4909-41c8-81bc-fe3b8baf5e80)
+
+
+
+
+
+
 
 
 
